@@ -7,13 +7,12 @@ A clone of the popular [Hacker News](https://news.ycombinator.com/news) built wi
 - Run the project locally by running `npm start`
 
 ### Styles
-Layout was done using the CSS Flexbox module and styles were applied using Zeit's [styled jsx] which looks something like this:
+Layout was done using the CSS Flexbox module and styles were applied using Zeit's [styled jsx](https://github.com/zeit/styled-jsx) which looks something like this:
 ```
 <style jsx>{`
   form {
     margin-bottom: 1em;
     padding-left: 20px;
   }
-
 `}
 ```
