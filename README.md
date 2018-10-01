@@ -4,8 +4,7 @@ A clone of the popular [Hacker News](https://news.ycombinator.com/news) built wi
 ## Quickstart
 - Download the project repository or clone it
 - Open the containing project folder and run `npm install`
-- Run the project locally by running `npm start` or visit the live project [here](https://hacker-news-clone-bvotpxhuzv.now.sh)
-- 
+- Run the project locally by running `npm start` or visit the live project [here](https://hacker-news-clone-uxptulanba.now.sh)
 
 ### Styles
 Layout was done using the CSS Flexbox module and styles were applied using Zeit's [styled jsx](https://github.com/zeit/styled-jsx) which looks something like this:
