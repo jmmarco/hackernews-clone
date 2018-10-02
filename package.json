@@ -1,8 +1,10 @@
 {
-  "name": "Hacker-News-Clone",
+  "name": "hacker-news-clone",
+  "alias": "hacker-news-clone.now.sh",
   "version": "1.0.0",
   "description": "A Hacker News Clone built with Next.JS",
   "repository": "https://github.com/jmmarco/hackernews-clone",
+  "homepage": "https://hacker-news-clone.now.sh",
   "main": "index.js",
   "scripts": {
     "dev": "next",
